@@ -259,6 +259,14 @@ span+span {
     filter: sepia(75%);
 }
 
+@media screen  and (min-width: 310px) {
+    .image-portada {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+    }
+}
+
 .container_image-portada {
     width: 100%;
     height: auto;
