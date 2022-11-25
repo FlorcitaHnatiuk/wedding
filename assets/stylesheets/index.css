@@ -61,7 +61,7 @@ html::-webkit-scrollbar-thumb {
 
 .logo {
     color: var(--beaver);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-weight: bold;
     font-size: 1.8rem;
     letter-spacing: .3rem;
@@ -335,7 +335,7 @@ span+span {
     border-radius: 3rem;
     padding: .5rem 2rem;
     color: var(--jet);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: .1rem;
@@ -384,7 +384,7 @@ span+span {
 }
 
 .title_sobreMi {
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     color: var(--beaver);
     text-align: center;
     font-size: 2.2rem;
@@ -395,7 +395,7 @@ span+span {
 
 .texto_sobreMi {
     color: var(--light-grey);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-size: 1.5rem;
     letter-spacing: .1rem;
     white-space: pre-line;
@@ -429,13 +429,13 @@ span+span {
     display: block;
     text-align: center;
     color: var(--white);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-size: 2.4rem;
     letter-spacing: .1rem;
     padding: 6rem 0 5rem 0;
 }
 
-.puntos1-habilidades, .puntos2-habilidades {
+.puntos1-habilidades, .puntos2-habilidades, .puntos3-habilidades {
     display: none;
 }
 
@@ -472,7 +472,7 @@ span+span {
 
 .cards--habilidades p {
     color: var(--white);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     letter-spacing: .1rem;
     font-size: 1.4rem;
     margin-bottom: .7rem;
@@ -542,7 +542,7 @@ img.logo-sena {
 
 .cards--formacion p:nth-child(1) {
     color: var(--beaver);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     letter-spacing: .1rem;
     font-size: 1.8rem;
     margin-bottom: .7rem;
@@ -550,7 +550,7 @@ img.logo-sena {
 
 .cards--formacion p:nth-child(2) {
     color: var(--light-grey);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     letter-spacing: .1rem;
     font-size: 1.4rem;
 }
@@ -568,7 +568,7 @@ img.logo-sena {
     display: block;
     text-align: center;
     color: var(--white);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-size: 2.4rem;
     letter-spacing: .1rem;
     padding: 6rem 0 5rem 0;
@@ -620,7 +620,7 @@ img.logo-sena {
 }
 
 .container_textCard--proyectos h2 {
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     letter-spacing: .1rem;
     font-size: 1.8rem;
     color: var(--white);
@@ -630,7 +630,7 @@ img.logo-sena {
 
 .container_textCard--proyectos p {
     color: var(--light-grey);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     letter-spacing: .1rem;
     font-size: 1.4rem;
     margin-top: 1rem;
@@ -691,7 +691,7 @@ img.logo-sena {
     display: block;
     text-align: center;
     color: var(--white);
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     font-size: 2.4rem;
     letter-spacing: .1rem;
     padding: 6rem 0 4rem 0;
@@ -715,7 +715,7 @@ img.logo-sena {
 
 .container_text--contacto p {
     font-size: 1.6rem;
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     color: var(--white);
     margin-bottom: 3rem;
     letter-spacing: 1px;
@@ -723,7 +723,7 @@ img.logo-sena {
 }
 
 .form-contact input {
-    font-family: 'EB Garamond', serif;;
+    font-family: 'EB Garamond', serif;
     background: transparent;
     border: 1px solid var(--light-grey);
     width: 100%;
