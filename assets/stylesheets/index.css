@@ -267,6 +267,14 @@ span+span {
     padding: 12rem 0 5rem 0;
 }
 
+iframe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .image_home {
     max-width:80%;
     transition: .4s;
@@ -436,7 +444,7 @@ span+span {
 }
 
 .puntos1-habilidades, .puntos2-habilidades, .puntos3-habilidades {
-    display: none;
+    display: none; 
 }
 
 .container_fondoPuntos--habilidades img {

@@ -72,6 +72,10 @@ nav.nav_menu.active {
 
 .cards_container--habilidades {
     column-gap: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Formación */
@@ -83,6 +87,14 @@ nav.nav_menu.active {
 
 .cards--formacion {
     margin: 0 2rem 3rem 2rem;
+}
+
+iframe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Proyectos */
