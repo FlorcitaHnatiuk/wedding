@@ -96,15 +96,3 @@ iframe {
     justify-content: center;
     text-align: center;
 }
-
-/* Proyectos */
-
-.cards--proyectos {
-    max-width: 48rem;
-}
-
-/* Contacto */
-.container--contacto {
-    margin: 0 auto;
-    width: 80%;
-}
