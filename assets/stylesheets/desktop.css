@@ -50,9 +50,15 @@ div.btn {
 }
 
 .container_image-home {
-    width: 55%;
+    width: 75%;
     padding-right: 4rem;
-    
+}
+
+.cards_container--mapa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .image_home {

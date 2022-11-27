@@ -265,6 +265,13 @@ span+span {
         display: flex;
         justify-content: center;
     }
+    .cards_image--mapa{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        padding: 12rem 0 5rem 0;
+    }
 }
 
 .container_image-portada {
@@ -273,14 +280,6 @@ span+span {
     display: flex;
     justify-content: center;
     padding: 12rem 0 5rem 0;
-}
-
-iframe {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 
 .image_home {
