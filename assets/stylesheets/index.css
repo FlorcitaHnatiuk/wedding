@@ -464,7 +464,7 @@ span+span {
     grid-template-rows: 14rem 14rem 14rem;
     gap: 3rem;
     justify-content: center;
-    padding-bottom: 5rem;
+    padding-bottom: 1rem;
 }
 
 .cards--habilidades {
