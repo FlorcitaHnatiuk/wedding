@@ -437,7 +437,6 @@ span+span {
 .habilidades {
     background-color: var(--jet);
     width: 100%;
-    height: auto;
 }  
 
 .habilidades h1 {

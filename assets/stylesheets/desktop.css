@@ -169,7 +169,7 @@ div.btn {
 }
 
 .sobreMi h1 {
-    margin-top: 2rem;
+    margin-top: 0.1rem;
 }
 
 .container_content-sobreMi {
@@ -197,8 +197,13 @@ div.btn {
 /* Habilidades */
 
 .habilidades {
-    padding-bottom: 22rem;
-    /* position: relative; */
+    padding-bottom: 25rem;
+    position: relative;
+}
+
+.mapa {
+    padding-bottom: 2rem;
+    position: relative;
 }
 
 .habilidades h1 {
